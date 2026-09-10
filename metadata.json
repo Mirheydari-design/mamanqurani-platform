@@ -1,0 +1,7 @@
+{
+  "name": "مامان قرآنی",
+  "description": "پلتفرم مینیمال و خلوت تبادل تجربه حفظ و مفاهیم قرآن برای کودکان همراه با مربی هوشمند و بازی‌های خلاقانه",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
